@@ -4,7 +4,7 @@
 
 A portfolio overview of a production digital experience built for a Brazilian lighting manufacturer. The public website brings together a product catalog, editorial content, interactive product visualization, and a custom administration platform.
 
-**Live website:** [embras.com.br](https://embras.com.br)
+**Live website:** [embrasilumina.com.br](https://embrasilumina.com.br)
 
 > This repository is a case study, not the application source code. The production website is publicly accessible at the link above. Its codebase, private administration, client assets, and implementation details are intentionally not distributed here.
 
